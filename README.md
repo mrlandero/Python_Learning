@@ -28,3 +28,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Project 7: String_Properties_Methods.ipynb
 
 **[String_Properties_Methods.ipynb](String_Properties_Methods.ipynb)**
+
+### Project 8: Print_Formatting_Strings.ipynb
+
+**[Print_Formatting_Strings.ipynb](Print_Formatting_Strings.ipynb)**
