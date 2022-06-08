@@ -16,3 +16,11 @@ A repo to post all of my Python lessons as I learn the language
 ### Project 4: Variable_Assignment.ipynb
 
 **[Variable_Assignment.ipynb](Variable_Assignment.ipynb)**
+
+### Project 5: Strings_Intro.ipynb
+
+**[Strings_Intro.ipynb](Strings_Intro.ipynb)**
+
+### Project 6: String_Indexing_Slicing.ipynb
+
+**[String_Indexing_Slicing.ipynb](String_Indexing_Slicing.ipynb)**
