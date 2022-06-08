@@ -24,3 +24,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Project 6: String_Indexing_Slicing.ipynb
 
 **[String_Indexing_Slicing.ipynb](String_Indexing_Slicing.ipynb)**
+
+### Project 7: String_Properties_Methods.ipynb
+
+**[String_Properties_Methods.ipynb](String_Properties_Methods.ipynb)**
