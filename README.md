@@ -32,3 +32,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Project 8: Print_Formatting_Strings.ipynb
 
 **[Print_Formatting_Strings.ipynb](Print_Formatting_Strings.ipynb)**
+
+### Project 9: Python_Lists.ipynb
+
+**[Python_Lists.ipynb](Python_Lists.ipynb)**
