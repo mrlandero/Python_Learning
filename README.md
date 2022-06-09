@@ -36,3 +36,11 @@ A repo to post all of my Python lessons as I learn the language
 ### Project 9: Python_Lists.ipynb
 
 **[Python_Lists.ipynb](Python_Lists.ipynb)**
+
+### Project 10: Python_Dictionaries.ipynb
+
+**[Python_Dictionaries.ipynb](Python_Dictionaries.ipynb)**
+
+### Project 11: Python_Tuples.ipynb
+
+**[Python_Tuples.ipynb](Python_Tuples.ipynb)**
