@@ -48,3 +48,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Project 12: Python_Sets.ipynb
 
 **[Python_Sets.ipynb](Python_Sets.ipynb)**
+
+### Project 13: Python_Booleans.ipynb
+
+**[Python_Booleans.ipynb](Python_Booleans.ipynb)**
