@@ -44,3 +44,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Project 11: Python_Tuples.ipynb
 
 **[Python_Tuples.ipynb](Python_Tuples.ipynb)**
+
+### Project 12: Python_Sets.ipynb
+
+**[Python_Sets.ipynb](Python_Sets.ipynb)**
