@@ -13,7 +13,7 @@ A repo to post all of my Python lessons as I learn the language
 
 **[Basic_Math.ipynb](Basic_Math.ipynb)**
 
-### Project 4: Variable_Assignment.ipynb
+### Lesson 4: Variable_Assignment.ipynb
 
 **[Variable_Assignment.ipynb](Variable_Assignment.ipynb)**
 
@@ -60,3 +60,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Lesson 15: Python_Comparison_Operators.ipynb
 
 **[Python_Comparison_Operators.ipynb](Python_Comparison_Operators.ipynb)**
+
+### Lesson 16 - Logical_Operators.ipynb
+
+**[Logical_Operators.ipynb](Logical_Operators.ipynb)**
