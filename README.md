@@ -5,11 +5,11 @@ A repo to post all of my Python lessons as I learn the language
 
 **[Hello_World.py](Hello_World.py)**
 
-### Project 2: My_first_nb.ipynb
+### Lesson 2: My_first_nb.ipynb
 
 **[My_first_nb.ipynb](My_first_nb.ipynb)**
 
-### Project 3: Basic_Math.ipynb
+### Lesson 3: Basic_Math.ipynb
 
 **[Basic_Math.ipynb](Basic_Math.ipynb)**
 
@@ -52,3 +52,11 @@ A repo to post all of my Python lessons as I learn the language
 ### Project 13: Python_Booleans.ipynb
 
 **[Python_Booleans.ipynb](Python_Booleans.ipynb)**
+
+### Lesson 14: Basic_Input_Output.ipynb
+
+**[Basic_Input_Output.ipynb](Basic_Input_Output.ipynb)**
+
+### Lesson 15: Python_Comparison_Operators.ipynb
+
+**[Python_Comparison_Operators.ipynb](Python_Comparison_Operators.ipynb)**
