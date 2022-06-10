@@ -17,11 +17,11 @@ A repo to post all of my Python lessons as I learn the language
 
 **[Variable_Assignment.ipynb](Variable_Assignment.ipynb)**
 
-### Project 5: Strings_Intro.ipynb
+### Lesson 5: Strings_Intro.ipynb
 
 **[Strings_Intro.ipynb](Strings_Intro.ipynb)**
 
-### Project 6: String_Indexing_Slicing.ipynb
+### Lesson 6: String_Indexing_Slicing.ipynb
 
 **[String_Indexing_Slicing.ipynb](String_Indexing_Slicing.ipynb)**
 
@@ -68,3 +68,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Lesson 17 - If_Elif_Statements.ipynb
 
 **[If_Elif_Statements.ipynb](If_Elif_Statements.ipynb)**
+
+### Lesson 18 - For_Loops.ipynb
+
+**[For_Loops.ipynb](For_Loops.ipynb)**
