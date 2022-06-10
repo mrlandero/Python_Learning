@@ -64,3 +64,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Lesson 16 - Logical_Operators.ipynb
 
 **[Logical_Operators.ipynb](Logical_Operators.ipynb)**
+
+### Lesson 17 - If_Elif_Statements.ipynb
+
+**[If_Elif_Statements.ipynb](If_Elif_Statements.ipynb)**
