@@ -25,11 +25,11 @@ A repo to post all of my Python lessons as I learn the language
 
 **[String_Indexing_Slicing.ipynb](String_Indexing_Slicing.ipynb)**
 
-### Project 7: String_Properties_Methods.ipynb
+### Lesson 7: String_Properties_Methods.ipynb
 
 **[String_Properties_Methods.ipynb](String_Properties_Methods.ipynb)**
 
-### Project 8: Print_Formatting_Strings.ipynb
+### Lesson 8: Print_Formatting_Strings.ipynb
 
 **[Print_Formatting_Strings.ipynb](Print_Formatting_Strings.ipynb)**
 
@@ -72,3 +72,11 @@ A repo to post all of my Python lessons as I learn the language
 ### Lesson 18 - For_Loops.ipynb
 
 **[For_Loops.ipynb](For_Loops.ipynb)**
+
+### Lesson 19 - While_Loops.ipynb
+
+**[While_Loops.ipynb](While_Loops.ipynb)**
+
+### Lesson 20 - Useful_Operators.ipynb
+
+**[Useful_Operators.ipynb](Useful_Operators.ipynb)**
