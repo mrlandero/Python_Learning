@@ -33,7 +33,7 @@ A repo to post all of my Python lessons as I learn the language
 
 **[Print_Formatting_Strings.ipynb](Print_Formatting_Strings.ipynb)**
 
-### Project 9: Python_Lists.ipynb
+### Lesson 9: Python_Lists.ipynb
 
 **[Python_Lists.ipynb](Python_Lists.ipynb)**
 
@@ -80,3 +80,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Lesson 20 - Useful_Operators.ipynb
 
 **[Useful_Operators.ipynb](Useful_Operators.ipynb)**
+
+### Lesson 21 - List_Comprehensions.ipynb
+
+**[List_Comprehensions.ipynb](List_Comprehensions.ipynb)**
