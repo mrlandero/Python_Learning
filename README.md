@@ -45,7 +45,7 @@ A repo to post all of my Python lessons as I learn the language
 
 **[Python_Tuples.ipynb](Python_Tuples.ipynb)**
 
-### Project 12: Python_Sets.ipynb
+### Lesson 12: Python_Sets.ipynb
 
 **[Python_Sets.ipynb](Python_Sets.ipynb)**
 
@@ -92,3 +92,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Lesson 23 - Basic_Functions.ipynb
 
 **[Basic_Functions.ipynb](Basic_Functions.ipynb)**
+
+### Lesson 24 - Function_Logic.ipynb
+
+**[Function_Logic.ipynb](Function_Logic.ipynb)**
