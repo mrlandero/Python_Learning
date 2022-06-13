@@ -37,11 +37,11 @@ A repo to post all of my Python lessons as I learn the language
 
 **[Python_Lists.ipynb](Python_Lists.ipynb)**
 
-### Project 10: Python_Dictionaries.ipynb
+### Lesson 10: Python_Dictionaries.ipynb
 
 **[Python_Dictionaries.ipynb](Python_Dictionaries.ipynb)**
 
-### Project 11: Python_Tuples.ipynb
+### Lesson 11: Python_Tuples.ipynb
 
 **[Python_Tuples.ipynb](Python_Tuples.ipynb)**
 
@@ -88,3 +88,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Lesson 22 - Python_Methods.ipynb
 
 **[Python_Methods.ipynb](Python_Methods.ipynb)**
+
+### Lesson 23 - Basic_Functions.ipynb
+
+**[Basic_Functions.ipynb](Basic_Functions.ipynb)**
