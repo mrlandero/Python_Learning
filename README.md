@@ -49,7 +49,7 @@ A repo to post all of my Python lessons as I learn the language
 
 **[Python_Sets.ipynb](Python_Sets.ipynb)**
 
-### Project 13: Python_Booleans.ipynb
+### Lesson 13: Python_Booleans.ipynb
 
 **[Python_Booleans.ipynb](Python_Booleans.ipynb)**
 
@@ -96,3 +96,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Lesson 24 - Function_Logic.ipynb
 
 **[Function_Logic.ipynb](Function_Logic.ipynb)**
+
+### Lesson 25 - Functions_And_Tuples.ipynb
+
+**[Functions_And_Tuples.ipynb](Functions_And_Tuples.ipynb)**
