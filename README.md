@@ -100,3 +100,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Lesson 25 - Functions_And_Tuples.ipynb
 
 **[Functions_And_Tuples.ipynb](Functions_And_Tuples.ipynb)**
+
+### Lesson 26 - Function_Interaction.ipynb
+
+**[Function_Interaction.ipynb](Function_Interaction.ipynb)**
