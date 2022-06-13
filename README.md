@@ -84,3 +84,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Lesson 21 - List_Comprehensions.ipynb
 
 **[List_Comprehensions.ipynb](List_Comprehensions.ipynb)**
+
+### Lesson 22 - Python_Methods.ipynb
+
+**[Python_Methods.ipynb](Python_Methods.ipynb)**
