@@ -105,3 +105,6 @@ A repo to post all of my Python lessons as I learn the language
 
 **[Function_Interaction.ipynb](Function_Interaction.ipynb)**
 
+### Lesson 27 - Args_Kwargs.ipynb
+
+**[Args_Kwargs.ipynb](Args_Kwargs.ipynb)**
