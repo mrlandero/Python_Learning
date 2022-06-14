@@ -112,3 +112,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Lesson 28 - 03-Function_Practice_Exercises.ipynb
 
 **[03-Function_Practice_Exercises.ipynb](03-Function_Practice_Exercises.ipynb)**
+
+### Lesson 29 - Function_Code_Along.ipynb
+
+**[Function_Code_Along.ipynb](Function_Code_Along.ipynb)**
