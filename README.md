@@ -108,3 +108,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Lesson 27 - Args_Kwargs.ipynb
 
 **[Args_Kwargs.ipynb](Args_Kwargs.ipynb)**
+
+### Lesson 28 - 03-Function_Practice_Exercises.ipynb
+
+**[03-Function_Practice_Exercises.ipynb](03-Function_Practice_Exercises.ipynb)**
