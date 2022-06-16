@@ -116,3 +116,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Lesson 29 - Function_Code_Along.ipynb
 
 **[Function_Code_Along.ipynb](Function_Code_Along.ipynb)**
+
+### Lesson 30 - Lambda_Map_Filter.ipynb
+
+**[Lambda_Map_Filter.ipynb](Lambda_Map_Filter.ipynb)**
