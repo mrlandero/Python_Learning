@@ -124,3 +124,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Lesson 31: Nested_Statements_Scope.ipynb
 
 **[Nested_Statements_Scope.ipynb](Nested_Statements_Scope.ipynb)**
+
+### Lesson 32: 08-Functions_and_Methods_Homework.ipynb
+
+**[08-Functions_and_Methods_Homework.ipynb](08-Functions_and_Methods_Homework.ipynb)**
