@@ -120,3 +120,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Lesson 30 - Lambda_Map_Filter.ipynb
 
 **[Lambda_Map_Filter.ipynb](Lambda_Map_Filter.ipynb)**
+
+### Lesson 31: Nested_Statements_Scope.ipynb
+
+**[Nested_Statements_Scope.ipynb](Nested_Statements_Scope.ipynb)**
