@@ -132,3 +132,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Lesson 33: Displaying_Information.ipynb
 
 **[Displaying_Information.ipynb](Displaying_Information.ipynb)**
+
+### Lesson 34: Interactive_List_Game.ipynb
+
+**[Interactive_List_Game.ipynb](Interactive_List_Game.ipynb)**
