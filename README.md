@@ -128,3 +128,7 @@ A repo to post all of my Python lessons as I learn the language
 ### Lesson 32: 08-Functions_and_Methods_Homework.ipynb
 
 **[08-Functions_and_Methods_Homework.ipynb](08-Functions_and_Methods_Homework.ipynb)**
+
+### Lesson 33: Displaying_Information.ipynb
+
+**[Displaying_Information.ipynb](Displaying_Information.ipynb)**
